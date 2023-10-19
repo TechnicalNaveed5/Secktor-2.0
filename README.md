@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://mybeluga.vercel.app/">
-    <img alt="X-2.0" height="300" src="https://i.ibb.co/Bts2qW4/20231020-004949.jpg">
+    <img alt="X-2.0" height="300" src="https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png">
     <h1 align="center">Secktor-2.0</h1>
     <p align="center"><img src="https://profile-counter.glitch.me/{X-S-L-A-S-H-E-R}/count.svg" alt="X-S-L-A-S-H-E-R :: Visitor's Count" /></p>
   </a>
