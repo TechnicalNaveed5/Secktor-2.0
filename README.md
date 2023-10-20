@@ -168,7 +168,7 @@ https://gist.githubusercontent.com/SamPandey001/eac4fa2950b5fb756e499e61aac93269
 <br><br>
     
 #### 🪟 PM-blocker plug-in
-**✨ Description:** This plugin conatains 4 tiktok video downloader commands. <br><br>
+**✨ Description:** if u turn on this on your bot number and someone pm you he will be blocked. <br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.github.com/SamPandey001/42a6856ec4ccf8dda19729913b19e350/raw/e666f2038a98fadd959bb01742a2ec86a56ec8bc/pmblocker.js
